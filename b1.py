@@ -28,7 +28,7 @@ breast_cancer_df["target"] = [breast_cancer.target_names[val] for val in breast_
 
 
 
-st.markdown("<h1 style='text-align: center; color: white;'>Breast Cancer Analysis Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: blue;'>Breast Cancer Analysis Dashboard</h1>", unsafe_allow_html=True)
 
 
 st.write('**********************************************')
